@@ -26,6 +26,10 @@
     <!-- Extension points defined by the plugin.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-extension-points.html -->
     <extensions defaultExtensionNs="com.intellij">
-
+        <!-- works in WebStorm and other SmallIDEs -->
+        <directoryProjectGenerator implementation="com.nekofar.milad.intellij.brunch.cli.BrunchCliProjectGenerator" />
+        <projectTemplatesFactory implementation="com.nekofar.milad.intellij.brunch.cli.BrunchProjectTemplateFactory"/>
+        <!-- works in new IDEA wizard -->
+        <moduleBuilder builderClass="com.nekofar.milad.intellij.brunch.cli.BrunchCliProjectModuleBuilder" />
     </extensions>
 </idea-plugin>
