@@ -1,6 +1,6 @@
 plugins {
     id("java")
-    id("org.jetbrains.kotlin.jvm") version "1.8.20"
+    id("org.jetbrains.kotlin.jvm") version "1.8.10"
     id("org.jetbrains.intellij") version "1.13.3"
 }
 
@@ -17,7 +17,7 @@ intellij {
     version.set("2021.3")
     type.set("IU") // Target IDE Platform
 
-    plugins.set(listOf(/* Plugin Dependencies */))
+    plugins.set(listOf("JavaScript"))
 }
 
 tasks {
