@@ -2,8 +2,8 @@
 
 [![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/21376-brunch)](https://plugins.jetbrains.com/plugin/21376-brunch)
 [![JetBrains plugins](https://img.shields.io/jetbrains/plugin/d/21376-brunch)](https://plugins.jetbrains.com/plugin/21376-brunch/versions)
-[![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/nekofar/intellij-brunch/build.yml?branch=master)](https://github.com/nekofar/intellij-brunch/actions/workflows/build.yml)
-[![GitHub](https://img.shields.io/github/license/nekofar/intellij-brunch)](https://github.com/nekofar/intellij-brunch/blob/master/LICENSE)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/KartanHQ/intellij-brunch/build.yml?branch=master)](https://github.com/KartanHQ/intellij-brunch/actions/workflows/build.yml)
+[![GitHub](https://img.shields.io/github/license/KartanHQ/intellij-brunch)](https://github.com/KartanHQ/intellij-brunch/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40nekofar-1DA1F2?logo=twitter&style=flat)](https://twitter.com/nekofar)
 
 <!-- Plugin description -->
