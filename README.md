@@ -9,12 +9,19 @@
 
 
 <!-- Plugin description -->
-Generate new projects with ease directly from your development environment using the [Brunch](https://brunch.io/) CLI. 
+[Brunch](https://brunch.io/), a fast front-end web application build tool, features a simple declarative configuration
+and seamless incremental compilation for rapid development.
 
-Whether you're a seasoned pro or just starting out, makes it easy to speed up the setup and initialization phase of your project creation process.
+With the help of community-shared skeletons, this plugin streamlines the initialization process of a new project. Among
+these, the renowned "ES6 skeleton" might appear intimidating at first glance, but it's exceptionally contemporary and
+user-friendly. It's certainly worth giving a try for your new app!
+
+Regardless of your proficiency level, whether you're a professional or a novice, this tool simplifies and accelerates
+the setup and initialization phase of your project creation process.
 <!-- Plugin description end -->
 
 ## Installation
 
-To install plugin open `Preferences > Plugins > Marketplace`, and search for Brunch.
+For plugin installation, navigate to `Preferences`, then `Plugins`, and finally `Marketplace`. In the search bar,
+enter `Brunch`.
 
