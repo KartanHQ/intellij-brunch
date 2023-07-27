@@ -22,6 +22,5 @@ the setup and initialization phase of your project creation process.
 
 ## Installation
 
-For plugin installation, navigate to `Preferences`, then `Plugins`, and finally `Marketplace`. In the search bar,
-enter `Brunch`.
+For plugin installation, navigate to `Preferences`, then `Plugins`, and finally `Marketplace`. In the search bar, enter `Brunch`.
 
